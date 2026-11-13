@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "interactor-replica-guest"
+abstract: "A shared object as four replicas of one deterministic guest: an input is applied when three of four reports agree, and a state is valid when the digests agree."
+type: software
+authors:
+  - family-names: "Lee"
+    given-names: "K. S. Ernest (iFire)"
+license: MIT
+repository-code: "https://github.com/V-Sekai-fire/interactor-replica-guest"
+date-released: "2026-11-13"
